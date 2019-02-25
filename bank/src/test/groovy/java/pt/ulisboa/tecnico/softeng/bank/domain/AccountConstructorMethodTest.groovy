@@ -1,0 +1,3 @@
+class AccountConstructorMethodTest extends Specification {
+	
+}
